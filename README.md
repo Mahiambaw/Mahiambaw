@@ -9,14 +9,12 @@
 - 👯 I’m looking to collaborate with other
 - 🥅 2022 Goals: Learn more about javascript, react, nodejs , mongodb
 
-#
-
 # Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mahlet-mulu-ambaw-5891a9a7/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mahlet-mulu-ambaw-5891a9a7/#gh-dark-mode-only)
 &nbsp;&nbsp;
-#
+
 # Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -36,5 +34,8 @@
 ---
 
 </details>
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
